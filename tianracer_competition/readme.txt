@@ -1,5 +1,5 @@
 author: Wu GengQian
-date: 2021-8-13
+date: 2021-8-18
 
 System: Ubuntu 20.04.1 LTS
 CPU: AMD® Ryzen 5 4500u with radeon graphics × 6
@@ -23,4 +23,4 @@ tips：
 1. The algorithm may fail due to the special position of the obstacle when entering or leaving the corner.
 2. During the test, it was found that the simulator had different effects under different computer performance conditions, but it was not carefully verified.
 3. The above parameters only pass the local test and are for reference only.
-4. To run the program on Ubuntu 20.04, execute sudo apt install python-is-python 3 on the terminal.
+4. To run the program on Ubuntu 20.04, execute sudo apt install python-is-python3 on the terminal.
